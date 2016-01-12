@@ -1,0 +1,7 @@
+{
+  "name": "phantomjs2pdf",
+  "dependencies": {
+    "express": "*",
+    "html-pdf": "*"
+  }
+}
